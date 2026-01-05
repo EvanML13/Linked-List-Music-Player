@@ -12,5 +12,5 @@ Loads musical notes and song metadata from a file (default: musicalNotes.csv), b
 
 This project was completed in VSCode SOCS and uploaded to GitHub.
 
-December 12th, 2025
-Evan Leonard
+- December 12th, 2025
+- Evan Leonard
